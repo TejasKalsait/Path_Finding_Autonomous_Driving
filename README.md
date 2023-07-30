@@ -12,7 +12,6 @@
 - [Dependencies](#dependencies)
 - [Running the Project](#running-the-project)
 - [Results](#results)
-- [License](#license)
 
 ## Introduction
 
